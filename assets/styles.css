@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#menu {
+    width: 300px;
+    margin: 20px auto;
+}
+#formulario, #alumnos-lista {
+    display: none;
+    width: 300px;
+    margin: 20px auto;
+}
+#alumnos-lista ul {
+    list-style: none;
+    padding: 0;
+}
+#alumnos-lista li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+.notas {
+    width: 20%;
+}
+
+#buscar {
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
